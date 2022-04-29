@@ -1,4 +1,4 @@
-### Ola Ricarlos Junior aqui... 👋
+### Olá Ricarlos Junior aqui... 👋
 
 
 - 🔭 Atualmente sou desevolvedor full stack java
