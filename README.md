@@ -1,8 +1,8 @@
 ### Olá Ricarlos Junior aqui... 👋
 
 
-- 🔭 Atualmente sou desenvolvedor full stack java
-- 🌱 Estudando Flutter, Ecossistema Spring e Angular
+- 🔭 Atualmente sou desenvolvedor full stack java em uma empresa do setor privado
+- 🌱 Estudando React-Native, Ecossistema Spring e me atualizando em Java
 
 <div>
   <a href="https://github.com/RicarlosJunior">
