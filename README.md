@@ -2,9 +2,9 @@
 
 - 👨‍💻 Atualmente sou desenvolvedor FullStack.
 - 💻 Linguagem de Programação Java.
-- 🔧 Framework JSF + Primefaces.
+- 🔧 Framework JSF, Spring, Primefaces.
 - 🛢 Banco de Dados IBM DB2.
-- 🌱 Estudante de React-Native, Ecossistema Spring e me atualizando em Java.
+- 🌱 Estudante de Engenharia de Software, Ecossistema Spring e me atualizando em Java.
 
 <div>
   <a href="https://github.com/RicarlosJunior">
